@@ -62,7 +62,7 @@ public:
         }
 
          for(int k=0; k<v; k++){
-            cout<<Parent[k]<< "--> "<<k<<":"<<key[k]<<endl;
+            cout<<Parent[k]<< " --> "<< k <<":"<<key[k]<<endl;
         }
     }
 
